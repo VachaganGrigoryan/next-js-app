@@ -1,0 +1,22 @@
+{
+  "Site": {
+    "title": "Fireflies",
+    "description": "Fireflies is a company that provides programming courses. We will help you to learn programming and find a job."
+  },
+  "Nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "about-us": "About us",
+    "contact-us": "Contacts",
+    "button": "Apply"
+  },
+  "Theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "AboutUs": {
+    "title": "About Us",
+    "description": "Fireflies is a company that provides programming courses. We will help you to learn programming and find a job.",
+    "button": "Apply"
+  }
+}
